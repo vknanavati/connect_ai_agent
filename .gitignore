@@ -27,3 +27,8 @@ npm-debug.log*
 # Ignore build outputs
 dist/
 build/
+
+
+# Ignore data files
+data/hotel-faqs/
+
